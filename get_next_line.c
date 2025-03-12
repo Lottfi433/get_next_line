@@ -6,7 +6,7 @@
 /*   By: yazlaigi <yazlaigi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/22 09:23:11 by yazlaigi          #+#    #+#             */
-/*   Updated: 2024/12/03 11:09:07 by yazlaigi         ###   ########.fr       */
+/*   Updated: 2024/12/03 13:04:42 by yazlaigi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -87,5 +87,6 @@ char	*get_next_line(int fd)
 // int main ()
 // {
 // 	int fd = open ("test", O_RDWR | O_CREAT , 0700);
+// 	printf("%s",get_next_line(fd));
 // 	printf("%s",get_next_line(fd));
 // }
